@@ -1,1 +1,7 @@
-# This is a tool for making better working time with concentration
+# Making better working time with concentration
+
+## Objectives
+- operate tasks smoothly
+  - everything is done in Terminal
+  - automating scheduling cycle
+
